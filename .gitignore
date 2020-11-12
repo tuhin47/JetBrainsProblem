@@ -1,0 +1,6 @@
+*.lock
+*.bin
+*.html
+task*
+*.yaml
+*.iml
