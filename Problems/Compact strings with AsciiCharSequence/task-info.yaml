@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    class AsciiCharSequence /* extends/implements */ {
+        // implementation
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3082#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Field of type java.lang.String is not allowed in AsciiCharSequence
+  time: Thu, 05 Nov 2020 17:13:56 UTC
+record: -1
